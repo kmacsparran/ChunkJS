@@ -1,0 +1,15 @@
+# Project settings
+/.codio
+/.settings
+
+# Test Folder
+/test
+
+# Other files and folders
+/.sass-cache/
+/node_modules/
+
+# Generated files
+/example/activelabel.js
+/example/std.css
+/src/styles/css/
